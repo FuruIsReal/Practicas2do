@@ -11,10 +11,12 @@ public class pelota : MonoBehaviour
     public float velX, velY;//Velocidad de mi pelota
     Rigidbody2D pelotaRB;//Fisicas de mi pelota
     public int puntospan, puntosfederico;
-    public TextMeshProUGUI textopuntospan, textopuntosfederico;
+    public TextMeshProUGUI textopuntospan, textopuntosfederico,mensajeGO;
+
+    public GameObject panelGameover;
     void Start()
     {
-        velX = Random.Range(2,5);//Calculamos un numero random entre -2,5
+        velX = Random.Range(5,10);//Calculamos un numero random entre -2,5
         velY = Random.Range(-5, 5);//Calculamos un numero random entre -5,5
         pelotaRB = GetComponent<Rigidbody2D>();//Obtengo el rigidBody
         pelotaRB.velocity=new Vector2 (velX, velY);//Asigno las velocidades random
@@ -24,9 +26,21 @@ public class pelota : MonoBehaviour
     {
         pelotaRB.velocity = Vector2.zero;//Congelo la pelota
         transform.position = Vector3.zero;//La regresamos al centro
-        Debug.Log("GOL");
-        puntospan++;
-        textopuntospan.text = "Pan: "+puntospan;
+
+        if (collision.gameObject.CompareTag("GolP1"))
+        {
+            puntosfederico++;
+            textopuntosfederico.text = "Federico: " + puntosfederico;
+            //golplayer=true;//La pelota reinicia hacie el player
+            //golcpu=false;
+        }
+        if (collision.gameObject.CompareTag("GolP2"))
+        {
+            puntospan++;
+            textopuntospan.text = "Pan: " + puntospan;
+            //golplayer=false;
+            //golcpu=true;//La pelota reinicia hacia el cpu
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -51,9 +65,24 @@ public class pelota : MonoBehaviour
     {
         if (pelotaRB.velocity==Vector2.zero) 
         {
-            velX = Random.Range(2, 5);
+            velX = Random.Range(5, 10);
             velY = Random.Range(-5, 5);
             pelotaRB.velocity = new Vector2(velX, velY);
+        }
+
+        if (puntospan > 4)
+        {
+            panelGameover.SetActive(true);
+            mensajeGO.text = "GAME OVER Victoria PAN";
+            pelotaRB.velocity = Vector2.zero;//Congelo la pelota
+            transform.position = Vector3.zero;//La regresamos al centro
+        }
+        if (puntosfederico > 4)
+        {
+            panelGameover.SetActive(true);
+            mensajeGO.text = "GAME OVER Victoria FEDERICO";
+            pelotaRB.velocity = Vector2.zero;//Congelo la pelota
+            transform.position = Vector3.zero;//La regresamos al centro
         }
     }
 

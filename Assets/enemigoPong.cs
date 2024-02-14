@@ -5,17 +5,17 @@ using UnityEngine;
 public class enemigoPong : MonoBehaviour
 {
     public Transform posPelota;//Declaramos la posición de la pelota
-    // Start is called before the first frame update
-    void Start()
-    {
-      //Aqui podriamos obtener la posición de la pelota pero hoy veremos
-      //OTRO METODO para hacerlo
-    }
+    Vector2 destino;
+    public float velEnemigo;
 
-    // Update is called once per frame
     void Update()
     {
+        //Aqui va el enemigo con velocidad
+        destino= new Vector2(transform.position.x,posPelota.position.y);
+        transform.position = Vector2.MoveTowards(transform.position, destino,Time.deltaTime * velEnemigo);
+
         //Esto hace que sigamos todo el tiempo en Y a la pelota
-        transform.position = new Vector2(transform.position.x,posPelota.position.y);
+        //Este es un enemigo perfecto, es imposible anotar
+        //transform.position = new Vector2(transform.position.x,posPelota.position.y);
     }
 }
