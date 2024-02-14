@@ -509,7 +509,7 @@ GameObject:
   - component: {fileID: 324168093}
   - component: {fileID: 324168092}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: TextoGo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -650,7 +650,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &648676327
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1997,6 +1997,8 @@ MonoBehaviour:
   puntosfederico: 0
   textopuntospan: {fileID: 693911051}
   textopuntosfederico: {fileID: 1165144031}
+  mensajeGO: {fileID: 324168092}
+  panelGameover: {fileID: 648676326}
 --- !u!1 &2090469301
 GameObject:
   m_ObjectHideFlags: 0
