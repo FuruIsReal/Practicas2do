@@ -1,0 +1,1686 @@
+fileFormatVersion: 2
+guid: 5b97d8ef0879ec04694a443815279cda
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 917
+        width: 222
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5e9cba8fa6fdb4ea686dd43e9d7310
+      internalID: -1288749827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_1
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 802
+        width: 242
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0077b8773964b104b89b8340ef01efab
+      internalID: 1251877298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 915
+        width: 227
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5158b3d115c8347aacf2f7564140d0
+      internalID: -1724612982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_3
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 915
+        width: 245
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515e84dfe4d47b8478bbd0bdc67645a3
+      internalID: 716644136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_4
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 915
+        width: 242
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0134fbe679d40d48a4db83d98915d20
+      internalID: -1250867381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_5
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 913
+        width: 220
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd65e4091d65a547a53839d2e4fbb42
+      internalID: 589757641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_6
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 913
+        width: 196
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db7911ab61ae8749b653a01f766dc98
+      internalID: 1181073585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_7
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 913
+        width: 237
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979eb435e1be0894c8c6f5b5cb60ce98
+      internalID: 1306216683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_8
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 913
+        width: 249
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577a1410fcf4f5e43bccac05eaedb3f8
+      internalID: -1023463617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 806
+        width: 217
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada478ddcfa54d14f9ded415fdc0e780
+      internalID: -1348150614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 806
+        width: 253
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b485672248b722540b79f4ebfb26315d
+      internalID: 2101046348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_11
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 806
+        width: 239
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f708ebc79c81390499527fedeae8ac06
+      internalID: -603534527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_12
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 806
+        width: 231
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af17a25a404908c43a7fcc9f480c3699
+      internalID: 169330941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 193
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c0ac9bfac3dd74a95ae61ac94d80bc
+      internalID: 1372529299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_14
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 802
+        width: 246
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78f36de26f11474d9c5f03c2b316c53
+      internalID: -1190888120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_15
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 802
+        width: 236
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e1e07b924edfa4a97f43a9418faf94
+      internalID: 1961803994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_16
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 800
+        width: 212
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340df619d3371524984ad32eb47c867c
+      internalID: 488107284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 695
+        width: 235
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2477191c3394df4a85775d08caa96af
+      internalID: 593853780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 689
+        width: 232
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3285563b40dc7f4db15f571b70e270a
+      internalID: 2138996506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_19
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 689
+        width: 227
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f4e495eac2e894fae9012db9cac990
+      internalID: 1048576707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_20
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 689
+        width: 219
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe5150cca05d534a8e06a7cb9c8a4f7
+      internalID: -1886970786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_21
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 685
+        width: 207
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b669222044b6c4789a05394beb251d
+      internalID: 155390337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_22
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 685
+        width: 207
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37f8b5891ceb094689a91528b1aacd7
+      internalID: -1155049424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_23
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 685
+        width: 207
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443f0ce7d50712c4bb8ff413239bc784
+      internalID: -1458795676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_24
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 685
+        width: 210
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059b20429d4bd234685fe6d27bfa8b8c
+      internalID: -1789425760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_25
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 683
+        width: 207
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86452face1eb7fe4197e295b704f3556
+      internalID: -96674812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 208
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cc031782c6d13409ce35f81b9e45d6
+      internalID: 1871336027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 572
+        width: 208
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdf2db657347fb4d81e47e0d9de1b08
+      internalID: 1493824641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_28
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 572
+        width: 208
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbec735c37778040a001d34ae6aa12d
+      internalID: -1830291359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_29
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 572
+        width: 207
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c0e6e6a6e264548a3238c1c55a98d1
+      internalID: 933618081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_30
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 568
+        width: 207
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53015237f66732142a9c7c863b488f6d
+      internalID: -1332444249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_31
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 566
+        width: 208
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438f0d0ea4bca2547b166ecc548a358c
+      internalID: 419944168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_32
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 566
+        width: 207
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821027c337b988a43a8c8fc05676ba56
+      internalID: -1211949559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_33
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 566
+        width: 207
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ad79a432d336c4aa7e75e8de1c3209
+      internalID: -304296244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_34
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 564
+        width: 217
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093dfdbc6fe29b54b85dbf0c8dc9766d
+      internalID: 1007838201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_35
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 562
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607e03260a45034468fa604be78baafb
+      internalID: -28488402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 453
+        width: 192
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81a16116c8ee32449a8a266561681a2
+      internalID: -1934853755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_37
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 453
+        width: 189
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbad32345fcc93a49ac52d7299560493
+      internalID: 1368976694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_38
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 453
+        width: 189
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619d665f9e7d091458a09f5af3971a29
+      internalID: -1629010935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_40
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 449
+        width: 192
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b3da04ac969c74cab28732c6c29c10
+      internalID: 851629687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_41
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 447
+        width: 191
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c14c80a7451eda4c9f7bcab0c700d32
+      internalID: -683003188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_42
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 447
+        width: 189
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567bb987dd96b97449b86246bc13bb99
+      internalID: 925013555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_43
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 447
+        width: 189
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c227b0ff07ed6f4f8e3a574f48f47f0
+      internalID: 1733175743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_44
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 445
+        width: 189
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04138c099acce4946ab46a7a6336a014
+      internalID: 2049863137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_46
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 443
+        width: 192
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ecd462d985b034c9175e59f5f7bb6f
+      internalID: -800326134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 340
+        width: 189
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe22830cfe03d641be446c8d9274ca1
+      internalID: 1635800151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 334
+        width: 189
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac6364b02cfb704bb16dd42286b7bef
+      internalID: 1676472791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_49
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 332
+        width: 232
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58597542cf6218a41af0136ae426ff93
+      internalID: -1887142890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_52
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 322
+        width: 244
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7743e42697ee1d14695382ab61f4a061
+      internalID: -1333971398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_53
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 318
+        width: 217
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321ba8da4bd104b428f1e39c934725c5
+      internalID: -187345688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_54
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 314
+        width: 206
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c5ae23e54147e43a20918e8fedfc84
+      internalID: 1502206242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_55
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 312
+        width: 245
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af516f0eec0a04d4e9c56ad0b4b56929
+      internalID: 1622001377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_56
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 310
+        width: 238
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e42efdf75578954c93c15e3b5fa99ff
+      internalID: -1542433512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 201
+        width: 254
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac15d00dbc602642ad35cc8987f177e
+      internalID: -139366371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_58
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 195
+        width: 213
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f907e16021bcfec4bb80ff1101dd3410
+      internalID: 1549746734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_59
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 193
+        width: 232
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa038ed7789e304fadfd8bb42fe8801
+      internalID: -408988746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_60
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 183
+        width: 214
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2f07b0cc81a6443b0ac442e0670318
+      internalID: -1452124653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_61
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 177
+        width: 228
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739dae343577a1844972a95f714bb238
+      internalID: -930903125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_62
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 173
+        width: 253
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a2b45bd9409df4a80ec6ea2aebd9a3
+      internalID: -416624870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_63
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 165
+        width: 241
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f719db2f879e4a148a9f3cddf4d23d6c
+      internalID: 1796351796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_64
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 157
+        width: 249
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02668f1f4e377c94fb4a55bec5bc13e3
+      internalID: 1517751443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 48
+        width: 219
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ea5528a7325204596d8aa60b79d336
+      internalID: -1676066670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_69
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 38
+        width: 222
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b0f3ee9bbfec84e841c9d687360b6f
+      internalID: -1413640522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_78
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 12
+        width: 199
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f967784c8c2b44d9a2664dea082ccf
+      internalID: -929658238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_79
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 40
+        width: 190
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b008568d07d974d92ee2e4b811a850
+      internalID: 798131304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_86
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 0
+        width: 197
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f7ecc1dcfedd94283135e3f74436f9
+      internalID: 320559934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_88
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 26
+        width: 232
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b00d1d64366cfe45ac352f3f477c2ed
+      internalID: -2068316866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Frozen Double Trouble - Wolf_89
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 20
+        width: 232
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41cc9a5a636a66498de4c6969df6bf8
+      internalID: -782264134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Browser Games - Frozen Double Trouble - Wolf_0: -1288749827
+      Browser Games - Frozen Double Trouble - Wolf_1: 1251877298
+      Browser Games - Frozen Double Trouble - Wolf_10: 2101046348
+      Browser Games - Frozen Double Trouble - Wolf_100: -426050596
+      Browser Games - Frozen Double Trouble - Wolf_101: -966250877
+      Browser Games - Frozen Double Trouble - Wolf_102: 99408007
+      Browser Games - Frozen Double Trouble - Wolf_103: 1479888277
+      Browser Games - Frozen Double Trouble - Wolf_104: 364007860
+      Browser Games - Frozen Double Trouble - Wolf_105: -1163200170
+      Browser Games - Frozen Double Trouble - Wolf_106: 921450795
+      Browser Games - Frozen Double Trouble - Wolf_107: 1352885201
+      Browser Games - Frozen Double Trouble - Wolf_108: 902518691
+      Browser Games - Frozen Double Trouble - Wolf_109: -738890216
+      Browser Games - Frozen Double Trouble - Wolf_11: -603534527
+      Browser Games - Frozen Double Trouble - Wolf_110: 443177582
+      Browser Games - Frozen Double Trouble - Wolf_111: -750252519
+      Browser Games - Frozen Double Trouble - Wolf_112: -851186690
+      Browser Games - Frozen Double Trouble - Wolf_113: 9894945
+      Browser Games - Frozen Double Trouble - Wolf_114: 567199695
+      Browser Games - Frozen Double Trouble - Wolf_115: 637298004
+      Browser Games - Frozen Double Trouble - Wolf_116: -872279066
+      Browser Games - Frozen Double Trouble - Wolf_117: 206552866
+      Browser Games - Frozen Double Trouble - Wolf_12: 169330941
+      Browser Games - Frozen Double Trouble - Wolf_13: 1372529299
+      Browser Games - Frozen Double Trouble - Wolf_14: -1190888120
+      Browser Games - Frozen Double Trouble - Wolf_15: 1961803994
+      Browser Games - Frozen Double Trouble - Wolf_16: 488107284
+      Browser Games - Frozen Double Trouble - Wolf_17: 593853780
+      Browser Games - Frozen Double Trouble - Wolf_18: 2138996506
+      Browser Games - Frozen Double Trouble - Wolf_19: 1048576707
+      Browser Games - Frozen Double Trouble - Wolf_2: -1724612982
+      Browser Games - Frozen Double Trouble - Wolf_20: -1886970786
+      Browser Games - Frozen Double Trouble - Wolf_21: 155390337
+      Browser Games - Frozen Double Trouble - Wolf_22: -1155049424
+      Browser Games - Frozen Double Trouble - Wolf_23: -1458795676
+      Browser Games - Frozen Double Trouble - Wolf_24: -1789425760
+      Browser Games - Frozen Double Trouble - Wolf_25: -96674812
+      Browser Games - Frozen Double Trouble - Wolf_26: 1871336027
+      Browser Games - Frozen Double Trouble - Wolf_27: 1493824641
+      Browser Games - Frozen Double Trouble - Wolf_28: -1830291359
+      Browser Games - Frozen Double Trouble - Wolf_29: 933618081
+      Browser Games - Frozen Double Trouble - Wolf_3: 716644136
+      Browser Games - Frozen Double Trouble - Wolf_30: -1332444249
+      Browser Games - Frozen Double Trouble - Wolf_31: 419944168
+      Browser Games - Frozen Double Trouble - Wolf_32: -1211949559
+      Browser Games - Frozen Double Trouble - Wolf_33: -304296244
+      Browser Games - Frozen Double Trouble - Wolf_34: 1007838201
+      Browser Games - Frozen Double Trouble - Wolf_35: -28488402
+      Browser Games - Frozen Double Trouble - Wolf_36: -1934853755
+      Browser Games - Frozen Double Trouble - Wolf_37: 1368976694
+      Browser Games - Frozen Double Trouble - Wolf_38: -1629010935
+      Browser Games - Frozen Double Trouble - Wolf_39: -2128714455
+      Browser Games - Frozen Double Trouble - Wolf_4: -1250867381
+      Browser Games - Frozen Double Trouble - Wolf_40: 851629687
+      Browser Games - Frozen Double Trouble - Wolf_41: -683003188
+      Browser Games - Frozen Double Trouble - Wolf_42: 925013555
+      Browser Games - Frozen Double Trouble - Wolf_43: 1733175743
+      Browser Games - Frozen Double Trouble - Wolf_44: 2049863137
+      Browser Games - Frozen Double Trouble - Wolf_45: 848692302
+      Browser Games - Frozen Double Trouble - Wolf_46: -800326134
+      Browser Games - Frozen Double Trouble - Wolf_47: 1635800151
+      Browser Games - Frozen Double Trouble - Wolf_48: 1676472791
+      Browser Games - Frozen Double Trouble - Wolf_49: -1887142890
+      Browser Games - Frozen Double Trouble - Wolf_5: 589757641
+      Browser Games - Frozen Double Trouble - Wolf_50: -1203556833
+      Browser Games - Frozen Double Trouble - Wolf_51: -1753985274
+      Browser Games - Frozen Double Trouble - Wolf_52: -1333971398
+      Browser Games - Frozen Double Trouble - Wolf_53: -187345688
+      Browser Games - Frozen Double Trouble - Wolf_54: 1502206242
+      Browser Games - Frozen Double Trouble - Wolf_55: 1622001377
+      Browser Games - Frozen Double Trouble - Wolf_56: -1542433512
+      Browser Games - Frozen Double Trouble - Wolf_57: -139366371
+      Browser Games - Frozen Double Trouble - Wolf_58: 1549746734
+      Browser Games - Frozen Double Trouble - Wolf_59: -408988746
+      Browser Games - Frozen Double Trouble - Wolf_6: 1181073585
+      Browser Games - Frozen Double Trouble - Wolf_60: -1452124653
+      Browser Games - Frozen Double Trouble - Wolf_61: -930903125
+      Browser Games - Frozen Double Trouble - Wolf_62: -416624870
+      Browser Games - Frozen Double Trouble - Wolf_63: 1796351796
+      Browser Games - Frozen Double Trouble - Wolf_64: 1517751443
+      Browser Games - Frozen Double Trouble - Wolf_65: -1676066670
+      Browser Games - Frozen Double Trouble - Wolf_66: 998419369
+      Browser Games - Frozen Double Trouble - Wolf_67: 458456777
+      Browser Games - Frozen Double Trouble - Wolf_68: -2004530180
+      Browser Games - Frozen Double Trouble - Wolf_69: -1413640522
+      Browser Games - Frozen Double Trouble - Wolf_7: 1306216683
+      Browser Games - Frozen Double Trouble - Wolf_70: 426087589
+      Browser Games - Frozen Double Trouble - Wolf_71: 1633131296
+      Browser Games - Frozen Double Trouble - Wolf_72: -827936102
+      Browser Games - Frozen Double Trouble - Wolf_73: 887477839
+      Browser Games - Frozen Double Trouble - Wolf_74: -850213085
+      Browser Games - Frozen Double Trouble - Wolf_75: -871785611
+      Browser Games - Frozen Double Trouble - Wolf_76: -1316377964
+      Browser Games - Frozen Double Trouble - Wolf_77: 742506505
+      Browser Games - Frozen Double Trouble - Wolf_78: -929658238
+      Browser Games - Frozen Double Trouble - Wolf_79: 798131304
+      Browser Games - Frozen Double Trouble - Wolf_8: -1023463617
+      Browser Games - Frozen Double Trouble - Wolf_80: 1629514360
+      Browser Games - Frozen Double Trouble - Wolf_81: 543584344
+      Browser Games - Frozen Double Trouble - Wolf_82: -1543704384
+      Browser Games - Frozen Double Trouble - Wolf_83: 1405666122
+      Browser Games - Frozen Double Trouble - Wolf_84: 1650073074
+      Browser Games - Frozen Double Trouble - Wolf_85: -1998520929
+      Browser Games - Frozen Double Trouble - Wolf_86: 320559934
+      Browser Games - Frozen Double Trouble - Wolf_87: 665759533
+      Browser Games - Frozen Double Trouble - Wolf_88: -2068316866
+      Browser Games - Frozen Double Trouble - Wolf_89: -782264134
+      Browser Games - Frozen Double Trouble - Wolf_9: -1348150614
+      Browser Games - Frozen Double Trouble - Wolf_90: 905677599
+      Browser Games - Frozen Double Trouble - Wolf_91: 1572683189
+      Browser Games - Frozen Double Trouble - Wolf_92: 1580355298
+      Browser Games - Frozen Double Trouble - Wolf_93: -1746166155
+      Browser Games - Frozen Double Trouble - Wolf_94: -1786439819
+      Browser Games - Frozen Double Trouble - Wolf_95: -864648666
+      Browser Games - Frozen Double Trouble - Wolf_96: 1820172322
+      Browser Games - Frozen Double Trouble - Wolf_97: 1541560580
+      Browser Games - Frozen Double Trouble - Wolf_98: -2112939311
+      Browser Games - Frozen Double Trouble - Wolf_99: 1500241133
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
