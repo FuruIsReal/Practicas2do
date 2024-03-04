@@ -7,6 +7,7 @@ TagManager:
   - Murillo
   - GolP1
   - GolP2
+  - suelo
   layers:
   - Default
   - TransparentFX
