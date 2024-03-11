@@ -8,6 +8,7 @@ TagManager:
   - GolP1
   - GolP2
   - suelo
+  - enemy
   layers:
   - Default
   - TransparentFX

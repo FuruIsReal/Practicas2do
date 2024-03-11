@@ -5,12 +5,14 @@ using UnityEngine;
 public class bala : MonoBehaviour
 {
     Rigidbody2D balaRB;
-    public float balaSpeed = 5f;
+    public float balaSpeed = 5f; 
+    public GameManager gameManager;
     void Start()
     {
         balaRB = GetComponent<Rigidbody2D>();
         balaRB.AddForce(Vector2.right * balaSpeed, ForceMode2D.Impulse);
         Destroy(gameObject, 2);
+        gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
     }
 
     void Update()
@@ -30,6 +32,12 @@ public class bala : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("suelo"))
         {
+            Destroy(gameObject);
+        }
+        if (collision.gameObject.CompareTag("enemy"))
+        {
+            Destroy(collision.gameObject);
+            gameManager.sumarpuntos(1);
             Destroy(gameObject);
         }
     }
