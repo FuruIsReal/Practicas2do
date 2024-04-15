@@ -9,6 +9,7 @@ TagManager:
   - GolP2
   - suelo
   - enemy
+  - meta
   layers:
   - Default
   - TransparentFX
