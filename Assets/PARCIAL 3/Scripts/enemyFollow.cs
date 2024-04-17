@@ -10,7 +10,7 @@ public class enemyFollow : MonoBehaviour
     void Start()
     {
         Destroy(gameObject, 2f);
-        speed = Random.Range(10, 20);
+        speed = Random.Range(2, 6);
         follow=GameObject.Find("MetaEnemigo").GetComponent<Transform>();
     }
 

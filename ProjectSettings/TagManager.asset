@@ -10,6 +10,7 @@ TagManager:
   - suelo
   - enemy
   - meta
+  - attack
   layers:
   - Default
   - TransparentFX
