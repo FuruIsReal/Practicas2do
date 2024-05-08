@@ -16,7 +16,7 @@ public class spawner : MonoBehaviour
     {
         while (vivo==true)
         {
-            yield return new WaitForSeconds(0.5f);
+            yield return new WaitForSeconds(5);
             Instantiate(enemigo,transform.position,Quaternion.identity);
         }
     }
