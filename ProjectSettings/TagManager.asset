@@ -10,6 +10,9 @@ TagManager:
   - suelo
   - enemy
   - meta
+  - attack
+  - enemigo
+  - posplayer
   layers:
   - Default
   - TransparentFX
@@ -44,6 +47,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: FONDO
+    uniqueID: 1326112257
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

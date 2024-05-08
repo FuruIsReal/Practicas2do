@@ -7,23 +7,23 @@ public class movimientoTopDown : MonoBehaviour
 {
     Rigidbody2D rb;
     Vector2 movPlayer;
-    public float speed,balaSpeed;
+    public float speed, balaSpeed;
     public Transform spawnBala;
     public GameObject bala;
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>();   
+        rb = GetComponent<Rigidbody2D>();
     }
 
     void Update()
     {
         movPlayer = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
-        rb.velocity = movPlayer*speed;
+        rb.velocity = movPlayer * speed;
 
         if (Input.GetButtonDown("Fire1"))
         {
-            GameObject b = Instantiate(bala, spawnBala.position, Quaternion.identity);
-            b.GetComponent<Rigidbody2D>().AddForce(Vector2.right*balaSpeed,ForceMode2D.Impulse);
+            GameObject b = Instantiate(bala, spawnBala.position, spawnBala.rotation);
+            b.GetComponent<Rigidbody2D>().AddForce(spawnBala.right * balaSpeed, ForceMode2D.Impulse);
             Destroy(b, 2f);
         }
     }
