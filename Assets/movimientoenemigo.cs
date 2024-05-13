@@ -8,10 +8,12 @@ public class movimientoenemigo : MonoBehaviour
     public Vector2 destino, destino2;
     public float velEnemigo;
     public bool der;
+    Animator animPlayer;
+    bool spawn;
     // Start is called before the first frame update
     void Start()
     {
-        
+        animPlayer = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -29,6 +31,15 @@ public class movimientoenemigo : MonoBehaviour
             transform.position = Vector2.MoveTowards(transform.position, destino2, Time.deltaTime * velEnemigo);
             transform.localScale = new Vector3(-1, 1, 1);
         }
+        if (spawn == true)
+        {
+            animPlayer.SetBool("spawn", false);
+        }
+        if(spawn == false)
+        {
+            animPlayer.SetBool("spawn", false);
+        }
+
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
