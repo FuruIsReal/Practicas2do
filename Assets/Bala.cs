@@ -10,7 +10,7 @@ public class Bala : MonoBehaviour
     void Start()
     {
         balaRB = GetComponent<Rigidbody2D>();
-        balaRB.AddForce(Vector2.right * balaSpeed, ForceMode2D.Impulse);
+        balaRB.AddForce(Vector2.up * balaSpeed, ForceMode2D.Impulse);
         Destroy(gameObject, 2);
     }
 
