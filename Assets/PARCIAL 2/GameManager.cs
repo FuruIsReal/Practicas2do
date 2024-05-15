@@ -11,11 +11,11 @@ public class GameManager : MonoBehaviour
     public TextMeshProUGUI textopuntos;
     void Start()
     {
-        textopuntos.text = "Ponyo: " + puntos ;
+        textopuntos.text = "Puntos: " + puntos ;
     }
     public void sumarpuntos(int p)
     {
         puntos += p ;
-        textopuntos.text = "Ponyo: " + puntos;
+        textopuntos.text = "Puntos: " + puntos;
     }
 }

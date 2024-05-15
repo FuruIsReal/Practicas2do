@@ -6,14 +6,16 @@ public class Bala : MonoBehaviour
 {
     Rigidbody2D balaRB;
     public float balaSpeed = 5f;
-    public gameManager gameManager;
+    public GameObject gameManager;
+    public GameManager gm;
     // Start is called before the first frame update
     void Start()
     {
         balaRB = GetComponent<Rigidbody2D>();
         balaRB.AddForce(Vector2.up * balaSpeed, ForceMode2D.Impulse);
         Destroy(gameObject, 2);
-        gameManager = GameObject.Find("gameManager").GetComponent<gameManager>();
+        gameManager = GameObject.Find("gm");
+        gm=gameManager.GetComponent<GameManager>();
     }
 
     // Update is called once per frame
@@ -29,8 +31,8 @@ public class Bala : MonoBehaviour
         }
         if (collision.gameObject.CompareTag("enemy"))
         {
+            gm.sumarpuntos(1);
             Destroy(collision.gameObject);
-            gameManager.sumarpuntos(1);
             Destroy(gameObject);
         }
     }
@@ -42,8 +44,8 @@ public class Bala : MonoBehaviour
         }
         if (collision.gameObject.CompareTag("enemy"))
         {
+            gm.sumarpuntos(1);
             Destroy(collision.gameObject);
-            gameManager.sumarpuntos(1);
             Destroy(gameObject);
         }
 
