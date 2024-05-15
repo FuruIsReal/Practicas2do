@@ -26,4 +26,13 @@ public class movSpaceInvaders : MonoBehaviour
             Destroy(b, 2f);
         }
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("enemy"))
+        {
+            Destroy(collision.gameObject);
+            Destroy(gameObject);
+        }
+    }
 }
