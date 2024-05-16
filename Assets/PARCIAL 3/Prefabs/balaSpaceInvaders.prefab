@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 5108125998391341151}
   m_Layer: 0
   m_Name: balaSpaceInvaders
-  m_TagString: Untagged
+  m_TagString: Bala
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -171,3 +171,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24ce92b8d7169284881c5244994758d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  balaSpeed: 5
+  gameManager: {fileID: 0}
+  gm: {fileID: 0}

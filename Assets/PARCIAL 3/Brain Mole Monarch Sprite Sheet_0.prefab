@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5129685866355484572}
   - component: {fileID: 5164473655642331435}
   - component: {fileID: 1141893425744664048}
+  - component: {fileID: 1554803408619312256}
   m_Layer: 0
   m_Name: Brain Mole Monarch Sprite Sheet_0
   m_TagString: enemy
@@ -170,3 +171,16 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1554803408619312256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8156817942742944216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92e11065c6f15c74580dd54b92086780, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  life: 1

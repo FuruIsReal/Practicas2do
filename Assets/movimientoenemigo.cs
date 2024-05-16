@@ -33,7 +33,7 @@ public class movimientoenemigo : MonoBehaviour
         }
         if (spawn == true)
         {
-            animPlayer.SetBool("spawn", false);
+            animPlayer.SetBool("spawn", true);
         }
         if(spawn == false)
         {
