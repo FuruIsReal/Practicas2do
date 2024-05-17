@@ -8,6 +8,7 @@ public class Bala : MonoBehaviour
     public float balaSpeed = 5f;
     public GameObject gameManager;
     public GameManager gm;
+    int cont = 0;
     // Start is called before the first frame update
     void Start()
     {
@@ -28,13 +29,23 @@ public class Bala : MonoBehaviour
         if (collision.gameObject.CompareTag("suelo"))
         {
             Destroy(gameObject);
+            gm.sumarpuntos(1);
         }
+
+        /*
         if (collision.gameObject.CompareTag("enemy"))
         {
+            cont++;
+            if(cont == 5)
+            {
+               Destroy(collision.gameObject);
+              Destroy(gameObject);
+            }
             gm.sumarpuntos(1);
            // Destroy(collision.gameObject);
             Destroy(gameObject);
         }
+        */
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
