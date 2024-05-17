@@ -9,6 +9,12 @@ public class movSpaceInvaders : MonoBehaviour
     public float speed, balaSpeed;
     public Transform spawnBala;
     public GameObject bala;
+
+
+
+    public GameObject panelDefeated;
+    public int life;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -25,14 +31,20 @@ public class movSpaceInvaders : MonoBehaviour
             b.GetComponent<Rigidbody2D>().AddForce(Vector2.up * balaSpeed, ForceMode2D.Impulse);
             Destroy(b, 2f);
         }
+
+
+        if(life <= 0)
+        {
+            panelDefeated.SetActive(true);
+            Destroy(gameObject);
+        }
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("enemy"))
         {
-            Destroy(collision.gameObject);
-            Destroy(gameObject);
+            life--;
         }
     }
 }

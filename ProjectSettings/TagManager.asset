@@ -15,6 +15,7 @@ TagManager:
   - posplayer
   - cambio
   - Spawner
+  - Bala
   layers:
   - Default
   - TransparentFX

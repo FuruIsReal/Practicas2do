@@ -32,7 +32,7 @@ public class Bala : MonoBehaviour
         if (collision.gameObject.CompareTag("enemy"))
         {
             gm.sumarpuntos(1);
-            Destroy(collision.gameObject);
+           // Destroy(collision.gameObject);
             Destroy(gameObject);
         }
     }
