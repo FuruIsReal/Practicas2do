@@ -9,6 +9,7 @@ public class enemyLife : MonoBehaviour
     public bool isEnemy;
     public bool isBoss;
     public bool isHouse;
+    
 
     public GameObject panelVictory;
     public GameObject panelDefeated;
@@ -65,6 +66,11 @@ public class enemyLife : MonoBehaviour
             if (collision.gameObject.CompareTag("enemy"))
             {
                 life--;
+            }
+            if (collision.gameObject.CompareTag("lobo"))
+            {
+                life -= 2;
+
             }
         }
     }
