@@ -1,0 +1,1007 @@
+fileFormatVersion: 2
+guid: ce53400a84eefff409b2a893e9590c5f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 338
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b696e71ac1383854cbf9bb1f1220e545
+      internalID: 913817038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 338
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6da9955a17c9de49aebe70b9c648705
+      internalID: 1477900946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 338
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5528a263d591a824cb6056e48c01323c
+      internalID: 1644238824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 338
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8eb971379d30d47a36ee13b79c9b6a
+      internalID: 85134400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 338
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104219f648e20d24f8858a251b7df4b3
+      internalID: -160229757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 338
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c370c6a30442d6d4eb21f6bebbee2e30
+      internalID: -1903067071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 338
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c1f98a617ca3640b3093c543c5d327
+      internalID: 1212738105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 338
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc3e7bf2bb445549acf9f9ff62814bb
+      internalID: 567953887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 338
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ac7c8a14606d440a720a644d41bd24
+      internalID: -1895298851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 259
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b873b4945c338e444857473e17a6a5c8
+      internalID: 192001279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 259
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9df3188c5d50649a03220789c4dbef
+      internalID: 1633520184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 259
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fbead0e3fbcbd45ab51cca71f2d746
+      internalID: -1872098850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 259
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5fe21e0fefc2b4d98096fdbfd42134
+      internalID: -1439850299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 259
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbb2af44a5648a48923befd7c7961af
+      internalID: -1294687936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 259
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651dd8a3687a82f4e974bbea5e151bb1
+      internalID: -153348149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 259
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3687bc1c1794d446a61bf405804d2d9
+      internalID: 1584344580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 259
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726fe91e37014a840b2616194fd928ef
+      internalID: 1153840908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 185
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15212273c9c7514bafc7d988e92cfbe
+      internalID: 671542346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 185
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7a2a0b7acc2294bae57e6a7d5801b5
+      internalID: 1748099154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 185
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a1ad3cd84b5604c848a1742f9cc472
+      internalID: 1780398109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 185
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f90757495fd8d340b59803da67b4cea
+      internalID: -941127514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 185
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e31965e23469774d9dbb2bcd5453c95
+      internalID: 139030549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 185
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fb507ec41fcae42907124829faca58
+      internalID: -2080408429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 185
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b840c6d3495f2249ba4f1490552d68d
+      internalID: 76002875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 185
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d84d60467973d4428341e203b6a4c14
+      internalID: 402668730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 185
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7005024bc7edd354799a31240af86136
+      internalID: -1382058532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 113
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c874da508cfd0a47a9cac5712962cf3
+      internalID: 1594329794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 113
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f97fbbb1b07e54aaec9e2b5e65366e
+      internalID: 2010920606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 113
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0569ce79801e8614bb4e26583fcdcac1
+      internalID: 252680148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 113
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea550e0841aec34695f54bab6430c36
+      internalID: 1138559495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 113
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0419cc5adaefecc41bc469cec6d21ad3
+      internalID: 469661364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 113
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2710a128e8886d4cbbf05f6792407c3
+      internalID: -57203604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 113
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35f6d69fb42e15489b0bd138250caf0
+      internalID: 1731098070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caba059ff1a3d5f45a6fef5e5802b6b2
+      internalID: 1772177535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f0a02f7f35ebd4aa0fe4376b0d0346
+      internalID: -726988628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 40
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987c72863fd884b4fad0098372c25bbd
+      internalID: 2022712906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 40
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a82c1502d9ba4f499e60b219f4f193f
+      internalID: -1098385902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 40
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a3a4d27f7d1984eb3e4d86afe956b1
+      internalID: 630599676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 40
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784ae7cb589cb144ebb3f008079e6b87
+      internalID: -2113320216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 40
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ea2aac76585544ab4398d9ecf296b1
+      internalID: 1911765566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_0: 913817038
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_1: 1477900946
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_10: 1633520184
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_11: -1872098850
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_12: -1439850299
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_13: -1294687936
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_14: -153348149
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_15: 1584344580
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_16: 1153840908
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_17: 671542346
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_18: 1748099154
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_19: 1780398109
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_2: 1644238824
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_20: -941127514
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_21: 139030549
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_22: -2080408429
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_23: 76002875
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_24: 402668730
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_25: -1382058532
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_26: 1594329794
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_27: 2010920606
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_28: 252680148
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_29: 1138559495
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_3: 85134400
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_30: 469661364
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_31: -57203604
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_32: 1731098070
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_33: 1772177535
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_34: -726988628
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_35: 2022712906
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_36: -1098385902
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_37: 630599676
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_38: -2113320216
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_39: 1911765566
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_4: -160229757
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_5: -1903067071
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_6: 1212738105
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_7: 567953887
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_8: -1895298851
+      Free-Soldier-Sprite-Sheets-Pixel-Art2-removebg-preview_9: 192001279
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

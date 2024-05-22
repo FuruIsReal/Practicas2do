@@ -72,6 +72,12 @@ public class enemyLife : MonoBehaviour
                 life -= 2;
 
             }
+
+            if (collision.gameObject.CompareTag("suelo"))
+            {
+                life = 0;
+            }
+
         }
     }
 }

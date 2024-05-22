@@ -67,6 +67,7 @@ public class movimientoenemigo : MonoBehaviour
         {
             der = !der;
         }
+        
     }
 
     public void ChangeAnimationState(string newState)

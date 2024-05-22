@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/PARCIAL 3/Monster in the Woods/EjemplosSpaceInvaders.unity
+    guid: 33bf006b09a7e504fa78d48bc7b98fd3
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
